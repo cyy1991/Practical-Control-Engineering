@@ -1,0 +1,8 @@
+MCP23017_LCD1602A.c:22:6:start_mcp23017	32	static
+MCP23017_LCD1602A.c:61:6:microseconds_timer	32	static
+MCP23017_LCD1602A.c:195:6:enableHIGH	16	static
+MCP23017_LCD1602A.c:210:6:enableLOW	16	static
+MCP23017_LCD1602A.c:92:6:display_on	96	static
+MCP23017_LCD1602A.c:117:6:display_clear	96	static
+MCP23017_LCD1602A.c:167:6:display_entry	96	static
+MCP23017_LCD1602A.c:142:6:display_home	88	static

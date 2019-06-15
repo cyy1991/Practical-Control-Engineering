@@ -1,0 +1,5 @@
+DHT11.c:40:13:DHT11_Delay_us	24	static
+DHT11.c:53:6:DHT11_Call	24	static
+DHT11.c:69:6:DHT11_Check	16	static
+DHT11.c:83:9:DHT11_Read	24	static
+DHT11.c:102:10:DHT11_Delay_Init	0	static
